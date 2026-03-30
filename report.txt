@@ -1,0 +1,13 @@
+This project focuses on digital literacy and its importance in today’s world. Digital literacy refers to the ability to use digital tools, platforms, and technologies safely and effectively.
+
+In Task 1, I created an infographic highlighting important cybersecurity tips such as using strong passwords, enabling two-factor authentication, and avoiding suspicious links.
+
+In Task 2, I developed a digital portfolio by creating profiles on platforms like GitHub, LinkedIn, and Kaggle. This helped me understand how to build an online presence.
+
+In Task 3, I explored coding platforms and completed a basic problem on HackerRank, which improved my problem-solving skills.
+
+In Task 4, I learned about email etiquette and created sample emails along with a checklist for proper communication.
+
+In Task 5, I studied cybercrime, specifically phishing attacks, and created a case study along with a prevention checklist.
+
+Overall, this project helped me understand how to stay safe online, use digital tools responsibly, and improve my digital skills.
