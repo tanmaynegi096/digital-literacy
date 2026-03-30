@@ -32,7 +32,8 @@ Prepared a phishing case study and prevention checklist.
 ---
 
 ## 🔗 Links
-(Add your Canva / Google Form links here)
+### Canva link -: https://canva.link/payjc3cdjgtzxmt
+### Google Form link -: https://forms.gle/JyEWkfhEAud6w4BJ9 
 
 ---
 
