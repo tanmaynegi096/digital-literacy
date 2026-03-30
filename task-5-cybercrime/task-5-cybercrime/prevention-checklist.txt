@@ -1,9 +1,0 @@
-- Do not click unknown links
-- Verify sender email
-- Use strong passwords
-- Enable 2FA
-- Avoid public WiFi for banking
-- Never share OTP
-- Use official apps only
-- Report fraud at cybercrime.gov.in
-- Call 1930
