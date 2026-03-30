@@ -1,7 +1,7 @@
 # Digital Literacy Project
 
 **Name:** Tanmay Negi  
-**Reg No:** [Your Reg Number]  
+**Reg No:** 25BCY10056  
 **Course:** CSE0001 – Digital Literacy  
 **University:** VIT Bhopal  
 
